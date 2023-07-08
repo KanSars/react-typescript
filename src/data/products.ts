@@ -1,4 +1,4 @@
-import { IProduct } from "../modals"
+import { IProduct } from "../models"
 
 const products: IProduct[] = [
     {
